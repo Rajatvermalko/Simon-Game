@@ -1,0 +1,24 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+h1{
+color: darkblue;
+font-family: cursive;
+font-weight: lighter;
+font-size: 2cm;
+margin: 1.5cm 0cm 0cm 0cm;
+}
+
+#description{
+text-decoration: wavy;
+font-style: italic;
+font-size: large;
+font-weight: bold;
+}
+
+footer{
+    margin: 9cm 0cm 1cm 0cm;
+    color: darkblue;
+}
