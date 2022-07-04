@@ -2,23 +2,64 @@ body{
     background-color: aquamarine;
     text-align: center;
 }
-
+h3{
+    color: darkblue;
+font-family: cursive;
+font-weight: lighter;
+font-size: larger;
+}
 h1{
 color: darkblue;
 font-family: cursive;
 font-weight: lighter;
-font-size: 2cm;
-margin: 1.5cm 0cm 0cm 0cm;
+font-size: 1.5cm;
+margin: 0.3cm 0cm 0cm 0cm;
+
 }
 
 #description{
 text-decoration: wavy;
 font-style: italic;
-font-size: large;
+font-size:0.7cm;
 font-weight: bold;
 }
-
+.game-over {
+    background-color: red;
+    opacity: 0.8;
+  }
 footer{
-    margin: 9cm 0cm 1cm 0cm;
+    margin: 0.5cm 0cm 0.5cm 0cm;
     color: darkblue;
+    font-size: medium;
+}
+
+.btn{
+    padding: 5.45em;
+    margin: 0.7cm 0.7cm 0.7cm 0.7cm;
+    border: 10px solid black;
+  border-radius: 20%;
+}
+
+#red{
+    background-color: red;
+    color: aliceblue;
+ }
+
+ #blue{
+    background-color: blue;
+    color: aliceblue;
+ }
+
+ #yellow{
+    background-color: yellow;
+    color: black;
+ }
+
+ #green{
+    background-color: green;
+    color: aliceblue;
+}
+.pressed{
+    opacity: 0.6;
+    background-color: white;
 }
